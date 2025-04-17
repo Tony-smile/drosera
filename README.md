@@ -263,7 +263,7 @@ Restart:
 sudo systemctl restart drosera
 ```
 
----
+------
 
 **GitHub:** [Tony-smile](https://github.com/Tony-smile) 
 **Happy Contributing!**
